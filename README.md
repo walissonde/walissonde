@@ -1,6 +1,6 @@
 ### Olá 🎉🎈
 
-Sou formado em Sistemas de Informação, comecei minha paixão por desenvolvimento de software há mais de anos. E atualmente sou programador Full Stack C#.
+Sou formado em Sistemas de Informação, comecei minha paixão por desenvolvimento de software há mais de anos. Atualmente sou programador Full Stack C#.
 
 
 ### 🚧 Linguagens e frameworks...
