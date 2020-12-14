@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**walissonde/walissonde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ### Olá 🎉🎈
 
 Sou formado em Sistemas de Informação, comecei minha paixão por desenvolvimento de software há mais de anos. E atualmente sou programador Full Stack C#.
@@ -41,4 +40,3 @@ Sou formado em Sistemas de Informação, comecei minha paixão por desenvolvimen
 
 </p>
 
--->
