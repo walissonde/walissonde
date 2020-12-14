@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ### Olá 🎉🎈
 
 Sou formado em Sistemas de Informação, comecei minha paixão por desenvolvimento de software há mais de anos. E atualmente sou programador Full Stack C#.
